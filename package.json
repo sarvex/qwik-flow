@@ -5,7 +5,7 @@
   "scripts": {},
   "private": true,
   "devDependencies": {
-    "@builder.io/qwik": "~0.17.5",
+    "@builder.io/qwik": "~0.21.0",
     "@builder.io/qwik-city": "~0.1.0",
     "@commitlint/cli": "^17.4.3",
     "@commitlint/config-angular": "^17.4.3",
